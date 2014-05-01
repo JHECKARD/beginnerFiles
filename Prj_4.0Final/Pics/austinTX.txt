@@ -1,0 +1,12 @@
+Jan;62
+Feb;65
+Mar;72
+Apr;80
+May;87
+Jun;92
+Jul;96
+Aug;97
+Sep;91
+Oct;82
+Nov;71
+Dec;63

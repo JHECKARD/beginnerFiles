@@ -1,0 +1,12 @@
+Washington;2
+Obama;8
+Arthur;10
+Bush;6
+Monroe;4
+Cleveland;3
+Buren;12
+Coolidge;7
+Harding;11
+Fillmore;1
+Kennedy;5
+Taft;9

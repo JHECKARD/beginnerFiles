@@ -1,0 +1,496 @@
+from the far left zone on the board:
+
+for the green zones, i did something a bit different.  Will explain later.  Trust me :-)
+
+0
+top left 29,254
+top right 50, 254
+bottom left 29, 271
+bottom right 38, 274
+done
+
+1
+top left 62, 204
+top right 85, 211
+bottom left 70, 230
+bottom right 95, 235
+done 
+
+2
+top left 85, 288
+top right 92, 290
+bottom left 85, 295
+bottom right 82, 300
+done
+
+3
+top left 142, 117
+top right 144, 138
+bottom left 142, 126
+bottom right 152, 118
+done
+
+4
+top left 157, 161
+top right 180, 190
+bottom left 147, 203
+bottom right 165, 210
+done
+
+5
+top left 158, 255
+top right 111, 338
+bottom left 135, 286
+bottom right 111, 350
+done
+
+6
+top left 125, 338
+top right 134, 347
+bottom left 135, 342
+bottom right 160, 370
+done
+
+7
+ORANGE ZONE 2
+top left 178, 148
+top right 187, 157
+bottom left 190, 170
+bottom right 205, 190
+done
+
+8
+top left 170, 234
+top right 189, 222
+bottom left 202, 218
+bottom right 201, 225
+done
+
+9
+top left 193, 262
+top right 178, 282
+bottom left 193, 307
+bottom right 204, 282
+done
+
+10
+top left 153, 306
+top right 140, 323
+bottom left 161, 337
+bottom right 187, 348
+done
+
+11
+top left 127, 388
+top right 133, 395
+bottom left 122, 403
+bottom right 110, 410
+done
+
+12
+top left 150, 430
+top right 150, 430
+bottom left 150, 430
+bottom right 150, 430
+done
+
+13
+top left 195, 432
+top right 227, 439
+bottom left 197, 471
+bottom right 210, 472
+done
+
+14
+top left 227, 84
+top right 244, 85
+bottom left 236, 95
+bottom right 240, 87
+done
+
+15
+CASTLE 2 - BONUS VALUE?
+top left 272, 105
+top right 274, 105
+bottom left 272, 107
+bottom right 274, 107
+done
+
+16
+top left 260, 143
+top right 261, 160
+bottom left 268, 177
+bottom right 270, 195
+done
+
+17
+top left 288, 193
+top right 289, 193
+bottom left 288, 194
+bottom right 289, 194
+done
+
+18
+top left 256, 212
+top right 324, 198
+bottom left 260, 243
+bottom right 310, 232
+done
+
+19
+top left 298, 255
+top right 292, 263
+bottom left 296, 270
+bottom right 300, 260
+done
+
+20
+top left 271, 265
+top right 278, 275
+bottom left 264, 284
+bottom right 281, 295
+done
+
+21
+top left 255, 337
+top right 275, 340
+bottom left 300, 345
+bottom right 280, 360
+done
+
+22
+top left 244, 357
+top right 240, 370
+bottom left 230, 380
+bottom right 247, 374
+done
+
+23
+top left 220, 400
+top right 230, 400
+bottom left 220, 410
+bottom right 230, 410
+done
+
+24
+top left 250, 390
+top right 270, 387
+bottom left 255, 400
+bottom right 270, 400
+done
+
+25
+top left 249, 421
+top right 279, 419
+bottom left 254, 430
+bottom right 260, 420
+done
+
+26
+top left 300, 400
+top right 310, 410
+bottom left 288, 434
+bottom right 300, 434
+done
+
+27
+top left 234, 464
+top right 300, 452
+bottom left 254, 484
+bottom right 300, 482
+done
+
+28
+top left 296, 108
+top right 291, 126
+bottom left 273, 130
+bottom right 287, 155
+done
+
+29
+top left 302, 136
+top right 305, 136
+bottom left 302, 139
+bottom right 305, 139
+done
+
+30
+top left 310, 162
+top right 313, 163
+bottom left 310, 168
+bottom right 313, 168
+done
+
+31
+top left 330, 95
+top right 360, 47
+bottom left 380, 67
+bottom right 350, 87
+
+32
+top left 319, 123
+top right 333, 131
+bottom left 359, 116
+bottom right 392, 100
+
+33
+top left 352, 152
+top right 372, 152
+bottom left 387, 121
+bottom right 370, 165
+
+34
+top left 341, 171
+top right 341, 181
+bottom left 354, 180
+bottom right 347, 189
+
+35
+top left 332, 230
+top right 349, 231
+bottom left 332, 257
+bottom right 349, 238
+
+36
+top left 367, 189
+top right 369, 189
+bottom left 367, 191
+bottom right 369, 191
+
+37
+top left 383, 234
+top right 377, 252
+bottom left 363, 269
+bottom right 354, 283
+
+38
+top left 356, 335
+top right 356, 356
+bottom left 352, 374
+bottom right 334, 383
+
+39
+top left 342, 413
+top right 315, 428
+bottom left 340, 430
+bottom right 355, 404
+
+40
+top left 334, 463
+top right 334, 473
+bottom left 334, 483
+bottom right 295, 505
+
+41
+top left 362, 509
+top right 380, 508
+bottom left 370, 510
+bottom right 375, 509
+
+42
+top left 411, 122
+top right 412, 122
+bottom left 411, 123
+bottom right 412, 123
+
+43
+top left 398, 148
+top right 418, 152
+bottom left 420, 162
+bottom right 424, 160
+
+44
+top left 402, 190
+top right 414, 190
+bottom left 402, 200
+bottom right 414, 200
+
+45
+top left 405, 224
+top right 417, 247
+bottom left 407, 235
+bottom right 412, 240
+
+46
+top left 401, 291
+top right 394, 309
+bottom left 412, 325
+bottom right 421, 349
+
+47
+top left 406, 385
+top right 415, 390
+bottom left 400, 410
+bottom right 425, 435
+
+48
+top left 385, 445
+top right 396, 465
+bottom left 420, 450
+bottom right 445, 455
+
+49
+top left 415, 500
+top right 435, 495
+bottom left 455, 490
+bottom right 480, 480
+
+50
+top left 
+top right 
+bottom left 
+bottom right 
+
+51
+top left 
+top right 
+bottom left 
+bottom right 
+
+52
+top left 
+top right 
+bottom left 
+bottom right 
+
+53
+top left 
+top right 
+bottom left 
+bottom right 
+
+54
+top left 
+top right 
+bottom left 
+bottom right 
+
+55
+top left 
+top right 
+bottom left 
+bottom right 
+
+56
+top left 
+top right 
+bottom left 
+bottom right 
+
+57
+top left 
+top right 
+bottom left 
+bottom right 
+
+58
+top left 
+top right 
+bottom left 
+bottom right 
+
+59
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 
+
+top left 
+top right 
+bottom left 
+bottom right 

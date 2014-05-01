@@ -1,0 +1,12 @@
+Newton;85
+Einstein;76
+Darwin;73
+Pasteur;73
+Freud;83
+Galileo;78
+Copernicus;70
+Faraday;76
+Virchow;81
+Boltzmann;62
+Curie;67
+Gauss;78

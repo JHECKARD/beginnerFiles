@@ -1,0 +1,12 @@
+Jan;2.0
+Feb;1.0
+Mar;0.0
+Apr;2.1
+May;1.0
+Jun;1.0
+Jul;3.0
+Aug;2.0
+Sep;1.0
+Oct;1.0
+Nov;1.0
+Dec;1.0
