@@ -1,9 +1,9 @@
 
-// Jason Heckard 84851006
+// Jason Heckard 
 
-// Jon Shokoor 54287589
+// Jon Shokoor 
 
-// Sam Hohmann 92315421
+// Sam Hohmann 
 
 using UnityEngine;
 using System.Collections.Generic;
