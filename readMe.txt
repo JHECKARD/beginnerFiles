@@ -71,31 +71,3 @@ a Photoshop-manipulated background image that makes the distant
 stars harder to see
 Sprite space ships, using a free sprite sheet found online 
 image and sound credits 
-
-
-///// *****     pong_Server     ***** /////
-This is a server that was specifically built to be used with the 
-pong_Client program.  The server was built in C# and uses TCP 
-strings to communicate with the client.  
-
-This server is incomplete.  The clients are able to connect and 
-monitor paddle positions, but the ball is generated individually 
-for each player.
-
-Finishing this server requires adding ball location information to 
-the server.  Whenever the Server detects that the ball has a 
-collision, it sends the ball position and ball direction to 
-all players so that ball position information is consistent.  
-
-For this project, I was server programmer and game designer.  
-
-
-///// *****     pong_Client     ***** ///// 
-This is a TCP client that is a game of Pong.  It is designed to be 
-used with the pong_Server and a Windows Remote Desktop connection 
-or some other type of internet connection between two clients.  
-It can also be run using two copies of the game scene (one in the 
-Unity engine, and one as the playable scene) and local test IP 
-address.  
-
-This Pong client was built in C#/MonoDevelop and Unity 4.1.2.
